@@ -1,4 +1,4 @@
-🏦 **Bank Transactions Report — Power BI Dashboard**
+🏦 **Bank Transactions Report with Power BI Dashboard**
 
 An end-to-end Power BI solution for monitoring bank transactions, identifying fraudulent patterns, and providing interactive filtering for transaction analysis.
 
@@ -25,9 +25,12 @@ GitHub — Version control and documentation
 
 📁 Project Structure
 Bank-Transactions-Report/
+
 │
 ├── bank transaction report.pbip     # Power BI project file
+
 ├── bank transaction_data.csv        # Source dataset
+
 └── README.md
 
 
