@@ -1,4 +1,5 @@
-🏦 **Bank Transactions Report — Power BI Dashboard**
+🏦 # Bank Transactions Report — Power BI Dashboard
+
 An end-to-end Power BI solution for monitoring bank transactions, identifying fraudulent patterns, and providing interactive filtering for transaction analysis.
 
 📖 Built as a learning project following Pavi's Data Insights tutorial. Extended with custom DAX measures, Canva-designed layout, and additional interactivity.
