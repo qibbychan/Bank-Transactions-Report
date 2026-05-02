@@ -1,4 +1,4 @@
-🏦 # Bank Transactions Report — Power BI Dashboard
+🏦 **Bank Transactions Report — Power BI Dashboard**
 
 An end-to-end Power BI solution for monitoring bank transactions, identifying fraudulent patterns, and providing interactive filtering for transaction analysis.
 
