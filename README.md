@@ -27,9 +27,9 @@ GitHub — Version control and documentation
 Bank-Transactions-Report/
 
 │
-├── bank transaction report.pbip     # Power BI project file
+├── bank transaction report.pbip    
 
-├── bank transaction_data.csv        # Source dataset
+├── bank transaction_data.csv       
 
 └── README.md
 
@@ -47,8 +47,7 @@ Ensure bank transaction_data.csv is in the same folder as the .pbip file
  Connect to a live data source (SQL / API) instead of static CSV
  Add time-series trend analysis for fraud detection over time
  Build an alert system for transactions exceeding threshold amounts
- Publish to Power BI Service for web-based access
-
+ 
 
 🙏 Acknowledgements
 Tutorial inspiration: Pavi's Data Insights — Dataset used for educational and portfolio purposes only.
